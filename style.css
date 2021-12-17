@@ -13,6 +13,7 @@ html, body{
 }
 
 body{
+    color: #000000;
     background: url(./images/20424679.jpg);
     background-position: center;
     background-size: cover;
